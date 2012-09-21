@@ -1,0 +1,4 @@
+DjangoLab
+=========
+
+Starting with Django
