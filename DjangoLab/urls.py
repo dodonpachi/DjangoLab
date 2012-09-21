@@ -6,7 +6,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
     # Examples:
-    # url(r'^$', 'DjangoLab.views.home', name='home'),
+    url(r'^$', 'Potato.views.home', name='home'),
     # url(r'^DjangoLab/', include('DjangoLab.foo.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:
